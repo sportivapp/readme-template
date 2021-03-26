@@ -70,6 +70,19 @@ npm run dev
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
+## Test
+
+```bash
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+```
+
 ## Advanced
 
 ```bash
